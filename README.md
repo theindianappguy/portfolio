@@ -1,16 +1,20 @@
-# portfolio
+![Flutter](https://user-images.githubusercontent.com/55942632/74084072-1d450f80-4a91-11ea-92bd-c3cb27468109.png)
 
-A new Flutter project.
+# Design, Build and Deploy Your First Flutter 💙 Website!
 
-## Getting Started
+🔥 [Subscribe](https://www.youtube.com/channel/UCsPdgUIoOBTBI1UmulW1pdw?sub_confirmation=1) for more
 
-This project is a starting point for a Flutter application.
+1. In this video you will learn how to build your first ever flutter website for beginner
 
-A few resources to get you started if this is your first Flutter project:
+If you want to host already build website check out the next video tutorial in which i will show how to 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+2. Host Flutter website with Firebase : Not Uploaded Yet (Subscribe)
+3. Host FLutter website with Codemagic : Not Uploaded Yet (Subscribe)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+About Flutter Web :
+Flutter web support is a code-compatible implementation of Flutter that is rendered using standards-based web technologies: HTML, CSS and JavaScript. With web support, you can compile existing Flutter code written in Dart into a client experience that can be embedded in the browser and deployed to any web server. You can use all the features of Flutter, and you don’t need a browser plug-in.
+
+.
+[🖥️ App Landing Page Made with Flutter Web](https://github.com/theindianappguy/applandingpage)
+
+Say hi 👋 on [Linkedin](https://www.linkedin.com/in/lamsanskar/)
